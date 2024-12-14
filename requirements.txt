@@ -1,0 +1,4 @@
+pycocotools
+pycocoevalcap
+pytorch-lightning
+  
